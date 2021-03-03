@@ -1,13 +1,15 @@
 ![capa github](https://github.com/SaraSampaio/SaraSampaio/blob/main/images/capa_github.png)  
 
 
-### Oi! <img src="https://github.com/SaraSampaio/SaraSampaio/blob/main/images/Hi.gif" width="30px"> Que bom ter você visitando o meu perfil! :smile:
+### Oi! <img src="https://github.com/SaraSampaio/SaraSampaio/blob/main/images/Hi.gif" width="30px">
+### Que bom ter você visitando o meu perfil! :smile:
 
 ---
 
 Sou graduanda em Engenheria Elétrica pela Universidade Federal do Espírito Santo e, de um tempo pra cá, tenho me interessado bastante por desenvolvimento web, machine learning e análise de dados.
 
-Amo ler :books:, aprender :bulb:, ouvir música :musical_note: e ver o mar! :beach_umbrella: 
+Amo ler :books:, aprender coisas novas :nerd_face:, ouvir música :musical_note: e ver o mar! :beach_umbrella: 
+
 Tenho duas cachorrinhas, a Mel e a Malu.  :dog2: :dog2:
 
 ---
