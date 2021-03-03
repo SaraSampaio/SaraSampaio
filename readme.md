@@ -31,8 +31,8 @@ Onde me encontrar:
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraSampaio&hide=html&layout=compact&theme=vue" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=SaraSampaio&theme=vue"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraSampaio&hide=html&layout=compact&theme=default" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=SaraSampaio&theme=default"/></td>
     </tr>   
   </table>
 </center> 
